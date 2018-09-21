@@ -1,0 +1,12 @@
+﻿
+Animal: Động vật
+Apple: Quả táo
+Red: Ðỏ
+Yellow: Vàng
+Door: Cửa
+Floor: Tầng
+Can: Lon
+Glass: Cỏ
+Number: Số
+Terminate: Hủy
+Discipline: Quy tắc
